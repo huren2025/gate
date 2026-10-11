@@ -85,7 +85,7 @@ EDGE_HOSTS = [
     h.strip()
     for h in os.environ.get(
         "EDGE_HOSTS",
-        "saas.sin.fan:443,cdn.204910.best:443,www.mfyx.cn:443,p.etime.vip:443,cdn.ctn32.us.kg:443,cf.877774.xyz:443,spring.io:443,"
+        "auto.dolby.dpdns.org:443,cf.1o.ee:443,cf.xreak.top:443,cloudflare.idc.rocks:443,cf.877774.xyz:443.p.etime.vip:443,cdn.7zz.cn:443,www.sage.com:443,markmonitor.com:443.jobsdb.com:443,saas.sin.fan:443,www.mastervolt.com:443,api.gzcrtw.com:443,www.leics.police.uk:443,openai.com:443,www.shopify.com:443,store.ubi.com:443,cf.nyanya.moe:443,www.sloomb.com:443,www.mfyx.cn:443,www.crazygames.fr:443,wppaunz.com:443,kniu.cc:443,224322.xyz:443,dongbanghong.com:443,www.dbs.com.sg:443,staticdelivery.nexusmods.com:443,www.akasantech.com:443,cf-cname.xingpingcn.top:443,cnllm.com:443,serviceshub.samsclub.com:443,www.wto.org:443,cf.3666888.xyz:443,fn.130519.xyz:443,www.sofi.com:443,cf.090227.xyz:443,"
         "cf.nyanya.moe:443,www.sloomb.com:443,op.chinwa.eu.cc:443,www.leics.police.uk:443,securecircle.com:443,www.shopify.com:443,"
         "www.carousell.sg:443,www.dbs.com.sg:443,openai.com:443,linear.app:443,www.bilibili.com:443,uspto.gov:443,www.vmware.com:443",
     ).split(",")
